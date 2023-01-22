@@ -1,0 +1,18 @@
+.dark-body{
+    background: var(--dark-bg);
+    color: var(--dark-text);
+}
+.dark-nav{
+    background: var(--dark-nav);
+    color: var(--dark-text);
+}
+.dark-nav a{
+    color: var(--dark-text);
+}
+.dark-nav button{
+    color: var(--dark-text);
+}
+.dark-footer{
+    background: var(--dark-nav);
+    color: var(--dark-text);
+}
